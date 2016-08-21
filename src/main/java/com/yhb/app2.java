@@ -5,6 +5,6 @@ package com.yhb;
  */
 public class app2 {
     public void hello(){
-        System.out.println("呵b1呵merge001!");
+        System.out.println("asdfasdf呵asdfasb1呵merge001!asdfasdf");
     }
 }
